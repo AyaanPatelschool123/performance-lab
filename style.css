@@ -29,3 +29,9 @@ header {
     padding: 20px;
     border: 1px solid #ffeeba;
 }
+
+#dynamic-ad-space {
+    /* This holds a 62px space so the page does not jump later */
+    min-height: 62px; 
+}
+    
